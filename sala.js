@@ -1,4 +1,4 @@
-
+//un comentario
 const formMensaje = document.getElementById("formMensaje");
 formMensaje.addEventListener("submit", ingresar);
 var registro = JSON.parse(localStorage.getItem("registro"));
